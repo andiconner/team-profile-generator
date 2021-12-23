@@ -94,7 +94,6 @@ Lets build your team!
 
 }
 function createTeamHTML() {
-    console.log(team)
     const pageHTML = generatePage(team)
     fs.writeFileSync('./dist/index.html', pageHTML);
 }

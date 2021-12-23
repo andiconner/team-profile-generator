@@ -17,7 +17,7 @@ function teamIcon(role) {
 
 };
 function teamInfo(role, employee) {
-    console.log(employee)
+    
     if (!role) {
         return "";
     } else if (role == 'Manager') {

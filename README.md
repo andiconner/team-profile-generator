@@ -23,7 +23,7 @@ Build a Node.js command-line application that takes in information about employe
 
 To have a team information easy to access.
 
-[mHere is a video showing how to use the app](https://watch.screencastify.com/v/aRsz66aGkwb4MqNq5JbV)
+[Here is a video showing how to use the app](https://watch.screencastify.com/v/BLhyJdDKsm2FOfiGkjpy)
 
 
 
